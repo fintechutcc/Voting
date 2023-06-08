@@ -22,7 +22,7 @@ A brief explanation on the basic workflow of the application.
 
 - [Node.js](https://nodejs.org)
 - [Truffle](https://www.trufflesuite.com/truffle)
-- [Ganache](https://github.com/trufflesuite/ganache-cli) (Cli)
+- [Ganache](https://github.com/trufflesuite/ganache)
 - [Metamask](https://metamask.io/) (Browser Extension)
 
 #### Getting the requirements
@@ -31,7 +31,7 @@ A brief explanation on the basic workflow of the application.
 
    Download and install NodeJS from [here](https://nodejs.org/en/download/ "Go to official NodeJS download page.").
 
-1. Install **truffle** and **ganache-cli** using node packager manager (npm)
+1. Install **truffle** using node packager manager (npm)
 
    ```shell
    npm install -g truffle
