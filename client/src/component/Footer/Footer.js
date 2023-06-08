@@ -11,7 +11,7 @@ const Footer = () => (
           View this project on{" "}
           <a
             className="profile"
-            href="https://github.com/fintechutcc/dVoting"
+            href="https://github.com/fintechutcc/Voting"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ const Footer = () => (
           Made with <i className="fas fa-heartbeat" /> by{" "}
           <a
             className="profile"
-            href="https://github.com/fintechutcc/dVoting"
+            href="https://github.com/fintechutcc/Voting"
             target="_blank"
             rel="noopener noreferrer"
           >

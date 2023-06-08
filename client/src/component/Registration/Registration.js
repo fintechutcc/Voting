@@ -179,7 +179,7 @@ export default class Registration extends Component {
                       <input
                         className={"input-r"}
                         type="text"
-                        placeholder="eg. Ava"
+                        placeholder="e.g. Suparerk"
                         value={this.state.voterName}
                         onChange={this.updateVoterName}
                       />{" "}

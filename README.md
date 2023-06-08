@@ -46,8 +46,8 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
-   cd dVoting
+   git clone https://github.com/fintechutcc/Voting.git
+   cd Voting
    ```
 
 2. Run local Ethereum blockchain, e.g., Ganache.
