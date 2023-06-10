@@ -4,7 +4,7 @@ A decentralized voting system based on [Ethereum blockchain](https://ethereum.or
 
 > This code was cloned from https://github.com/arlbibek/dVoting.
 
-## System Workflow
+## ตัวอย่างของ Workflow
 
 A brief explanation on the basic workflow of the application.
 
